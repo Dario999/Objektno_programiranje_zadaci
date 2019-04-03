@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521553691 source:c:\users\dario\desktop\akcii\main.cpp
+	<iostream>
+	<cstring>
+

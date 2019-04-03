@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1519521792 source:c:\users\dario\desktop\ttt\main.cpp
+	<iostream>
+	<cstring>
+
